@@ -150,4 +150,4 @@ Open [http://localhost:5000](http://localhost:5000)
 ## 👩‍💻 Author
 
 **K. Vijaya Sri Vyshnavi Devi** · B.Tech AI & ML · NRI Institution of Technology  
-[GitHub](https://github.com) · [LinkedIn](https://linkedin.com)
+[GitHub](https://github.com/kambhampati-vijaya-sri-vyshnavi-devi89) · [LinkedIn](https://www.linkedin.com/in/vijaya-sri-vyshnavi-devi-kambhampati/)
